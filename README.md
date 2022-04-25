@@ -1,6 +1,3 @@
-# walmart-weather-sales
-Walmart Recruiting II: Sales in Stormy Weather
-
 # **Walmart Recruiting II: Sales in Stormy Weather**
 
 ## Predict how sales of weather-sensitive products are affected by snow and rain
@@ -23,7 +20,7 @@ Walmart Recruiting II: Sales in Stormy Weather
 2. sales number 0 doesn't necessarily mean there was no demand for this product; it may mean it was in stock but none were sold, or it could mean that the product was out of stock, or discontinued and not available.
 3. The following graphic shows the layout of the test windows. The **green dots are the training set days**, the **red dots are the test set days**, and the **event=True are the days with storms.** Note that this plot is for the **20 weather stations**.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25589de8-a826-4c6d-8eeb-1151dcef4191/Untitled.png)
+![Untitled](https://storage.googleapis.com/kaggle-competitions/kaggle/4332/media/weather_events.png)
 
 ## **Field descriptions**
 
